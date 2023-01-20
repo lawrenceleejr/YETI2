@@ -18,4 +18,14 @@ We will then attempt to decrypt your message using your pre-assigned keys.
 
 ## Bonus Challenge
 
-To be released Jan 20.
+Take a competitor’s encrypted message and decode it. You’ll need to figure out their secret key. Send us via email (*) the following information:
+
+* Your competitors’ GitHub username
+* Their secret key
+* Their decoded message 
+* Describe your method and send any code you may have used. For example, code can be sent via private repos, private gists, by email, or another method, as you may not want to reveal your methods in the public repo.
+
+The more competitor messages you decode and send, the more bonus you get. 
+
+(*) llee@utk.edu ; tholmes@utk.edu
+
